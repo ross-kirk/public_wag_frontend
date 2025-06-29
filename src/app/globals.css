@@ -56,3 +56,11 @@ button:hover, .btn:hover {
   background: #f8fafc;
   width: 8px;
 }
+
+.nav-link {
+  color: #fff !important;
+}
+.nav-link:hover,
+.nav-link[aria-current="page"] {
+  color: #fff !important;
+}
