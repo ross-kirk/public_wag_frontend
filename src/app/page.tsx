@@ -10,7 +10,8 @@ export default function Home() {
             Wag On The Wild Side
           </h1>
           <p className="mb-6 text-lg text-teal-800 bg-white p-4 rounded shadow-sm text-center md:text-left">
-            Professional, fun, and caring dog walking adventures in your neighborhood! We treat every pup like family and make every walk a tail-wagging experience.
+            I'm Shauni. A fully insured, professional dog walker, offering solo or small group adventures tailored to your dog's personality in the Dundee area.<br/>
+            I specialise in dogs that require extra patience & special adjustments, but everyone is welcome 🐾🐶🥰
           </p>
           <div className="flex gap-4 mt-2">
             <Link href="/services">

@@ -18,8 +18,8 @@ export default function Contact() {
         <button type="submit" className="bg-teal-600 text-white py-2 px-4 rounded hover:bg-teal-700 transition-colors font-semibold">Send Message</button>
       </form>
       <div className="text-teal-800">
-        <p><span className="font-semibold">Email:</span> <a href="mailto:info@wagonwildside.com" className="underline hover:text-teal-600">info@wagonwildside.com</a></p>
-        <p><span className="font-semibold">Phone:</span> (555) 123-4567</p>
+        <p><span className="font-semibold">Email:</span> <a href="mailto:shauni@wagonthewildside.com" className="underline hover:text-teal-600">shauni@wagonthewildside.com</a></p>
+        <p><span className="font-semibold">Phone:</span> +44 7885 511067</p>
       </div>
     </main>
   );

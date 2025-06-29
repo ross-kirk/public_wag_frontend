@@ -18,7 +18,7 @@ export default function Privacy() {
         </ul>
         <h2 className="text-2xl font-semibold mb-2 text-teal-700">Contact</h2>
         <p>
-          For privacy-related questions, please contact us at <a href="mailto:info@wagonwildside.com" className="underline text-teal-600">info@wagonwildside.com</a>.
+          For privacy-related questions, please contact us at <a href="mailto:shauni@wagonthewildside.com" className="underline text-teal-600">shauni@wagonthewildside.com</a>.
         </p>
       </section>
     </main>
