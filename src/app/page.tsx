@@ -5,15 +5,15 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-center min-h-[80vh] bg-teal-50 py-12 px-4 text-teal-900">
       <div className="flex flex-col md:flex-row items-center gap-8 max-w-4xl w-full">
-        <div className="flex-1 flex flex-col items-center md:items-start">
-          <h1 className="text-5xl font-extrabold mb-4 text-teal-700 drop-shadow-sm text-center md:text-left">
+        <div className="flex-1 flex flex-col items-center">
+          <h1 className="text-5xl font-extrabold mb-4 text-teal-700 drop-shadow-sm text-center">
             Wag On The Wild Side
           </h1>
-          <p className="mb-6 text-lg text-teal-800 bg-white p-4 rounded shadow-sm text-center md:text-left">
+          <p className="mb-6 text-lg text-teal-800 bg-white p-4 rounded shadow-sm text-center">
             I'm Shauni. A fully insured, professional dog walker, offering solo or small group adventures tailored to your dog's personality in the Dundee area.<br/>
             I specialise in dogs that require extra patience & special adjustments, but everyone is welcome 🐾🐶🥰
           </p>
-          <div className="flex gap-4 mt-2">
+          <div className="flex gap-4 mt-2 justify-center">
             <Link href="/services">
               <span className="bg-teal-600 text-white px-6 py-2 rounded shadow hover:bg-teal-700 transition-colors font-semibold">Our Services</span>
             </Link>

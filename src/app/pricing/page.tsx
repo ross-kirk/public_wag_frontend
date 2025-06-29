@@ -15,19 +15,19 @@ export default function Pricing() {
         <tbody>
           <tr>
             <td className="py-2 px-4">Group Walk (1hr)</td>
-            <td className="py-2 px-4">$25</td>
+            <td className="py-2 px-4">£25</td>
           </tr>
           <tr className="bg-teal-50">
             <td className="py-2 px-4">Solo Walk (30min)</td>
-            <td className="py-2 px-4">$30</td>
+            <td className="py-2 px-4">£30</td>
           </tr>
           <tr>
             <td className="py-2 px-4">Puppy Visit (30min)</td>
-            <td className="py-2 px-4">$22</td>
+            <td className="py-2 px-4">£22</td>
           </tr>
           <tr className="bg-teal-50">
             <td className="py-2 px-4">Adventure Hike (2hr)</td>
-            <td className="py-2 px-4">$50</td>
+            <td className="py-2 px-4">£50</td>
           </tr>
         </tbody>
       </table>
