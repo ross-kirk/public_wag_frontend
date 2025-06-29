@@ -27,7 +27,7 @@ export default function Contact() {
     <main className="max-w-xl mx-auto py-12 px-4 text-teal-900">
       <h1 className="text-4xl font-bold mb-4 text-teal-700">Contact Us</h1>
       <p className="mb-6 text-lg text-teal-800 bg-teal-50 p-4 rounded shadow-sm">
-        We'd love to hear from you! Fill out the form below or reach out directly.
+        We&apos;d love to hear from you! Fill out the form below or reach out directly.
       </p>
       <form className="bg-white p-6 rounded-lg shadow-md flex flex-col gap-4 mb-6" onSubmit={handleSubmit}>
         <label className="font-medium">Name

@@ -10,8 +10,8 @@ export default function Home() {
             Wag On The Wild Side
           </h1>
           <p className="mb-6 text-lg text-teal-800 bg-white p-4 rounded shadow-sm text-center">
-            I'm Shauni. A fully insured, professional dog walker, offering solo or small group adventures tailored to your dog's personality in the Dundee area.<br/>
-            I specialise in dogs that require extra patience & special adjustments, but everyone is welcome 🐾🐶🥰
+            I&apos;m Shauni. A fully insured, professional dog walker, offering solo or small group adventures tailored to your dog&apos;s personality in the Dundee area.<br/>
+            I specialise in dogs that require extra patience &amp; special adjustments, but everyone is welcome 🐾🐶🥰
           </p>
           <div className="flex gap-4 mt-2 justify-center">
             <Link href="/services">
