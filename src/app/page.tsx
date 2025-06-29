@@ -6,10 +6,11 @@ export default function Home() {
     <main className="flex flex-col items-center justify-center min-h-[80vh] bg-teal-50 py-12 px-4 text-teal-900">
       <div className="flex flex-col md:flex-row items-center gap-8 max-w-4xl w-full">
         <div className="flex-1 flex flex-col items-center">
-          <h1 className="text-5xl font-extrabold mb-4 text-teal-700 drop-shadow-sm text-center">
-            Dog Walkers Dundee | Wag On The Wild Side
+          <h1 className="text-5xl font-extrabold mb-2 text-teal-700 drop-shadow-sm text-center">
+            Wag On The Wild Side
           </h1>
-          <h2 className="text-2xl font-semibold mb-2 text-center text-teal-800">Professional Dog Walking in Dundee</h2>
+          <h2 className="text-xl font-semibold mb-4 text-center text-teal-800 tracking-wide uppercase">Dog Walkers Dundee</h2>
+          <h3 className="text-2xl font-semibold mb-2 text-center text-teal-800">Professional Dog Walking in Dundee</h3>
           <p className="mb-6 text-lg text-teal-800 bg-white p-4 rounded shadow-sm text-center">
             I&apos;m Shauni, a fully insured, professional dog walker based in Dundee. I offer solo or small group dog walking adventures tailored to your dog&apos;s personality. I specialise in dogs that require extra patience &amp; special adjustments, but everyone is welcome 🐾🐶🥰<br/><br/>
             Looking for a reliable dog walker in Dundee? I provide safe, fun, and caring dog walking services across Dundee and the surrounding area. Contact me today to give your dog the adventure they deserve!
