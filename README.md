@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Wag On The Wild Side
+
+A modern, inviting website for a dog walking business, built with Next.js, TypeScript, and Tailwind CSS. Designed with shades of teal, off-white, and white for a clean and fun look.
+
+## Features
+- Home page with business overview
+- Persistent navbar
+- Services, Pricing, Contact sub-pages
+- Gallery of client dogs
+- Responsive and accessible design
+
+## Tech Stack
+- [Next.js](https://nextjs.org/) (App Router, TypeScript)
+- [Tailwind CSS](https://tailwindcss.com/)
+- Deployed via GitHub Pages
 
 ## Getting Started
 
